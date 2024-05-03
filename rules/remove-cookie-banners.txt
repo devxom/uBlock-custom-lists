@@ -1,0 +1,48 @@
+! Title: Remove cookie banner
+! Description: Hide all cookie baners on some sites
+! Version: 0.0.1
+! Homepage: https://github.com/devxom/uBlock-custom-lists/blob/main/rules/remove-cookie-banners.txt
+! License: https://github.com/devxom/uBlock-custom-lists/blob/main/LICENSE
+
+www.theverge.com###privacy-consent
+www.reuters.com###_evidon-barrier-wrapper
+store.hp.com###onetrust-consent-sdk
+www.twitch.tv##.consent-banner
+www.alternate.de###TLEConsentDialog
+www.cnet.com##.onetrust-pc-dark-filter
+www.cnet.com###onetrust-group-container
+www.netdata.cloud##.consentContainer
+login.teamviewer.com##.optanon-alert-box-wrapper
+www.hikvision.com##.gdpr-container
+www.forticlient.com###__agreementBar
+handbrake.fr##.cc-type-info.cc-banner.cc-window
+tapas.io###gdpr-cookie-message
+peter-bringts.de##.cookie-message
+peterpane.simplywebshop.de##.cookie-message
+www.lieferando.de##.cc-banner__container
+www.phoronix.com##.qc-cmp-ui-container
+www.carstensen.eu###cookieHint
+www.softexpress.de##.cc_container
+all3dp.com##.iubenda-cs-content
+industrie-toner.de##.cc-banner.cc-window
+powerusers.microsoft.com##.ui-widget-overlay
+powerusers.microsoft.com##.ui-corner-all
+www.peterpane.de###cookie-law-info-bar
+www.theverge.com###privacy-consent
+audioteka.com##.anonymousToSConsent_screen
+audioteka.com##.anonymousToSConsent_mask
+www.gratis-hoerspiele.de###steady-adblock-overlay-container
+www.gratis-hoerspiele.de##.cookie-notice-container
+www.gratis-hoerspiele.de###wbounce-modal
+www.krimi-couch.de###SgCookieOptin
+www.bloomberg.com##.navi-push-notification-prompt
+www.bloomberg.com###paywall-banner
+onlineservice.o2business.de##.cookiealert
+adminconsole.adobe.com###_evidon_banner
+stadt-bremerhaven.de##.wpcc-container
+support.brother.com###cookieLawBar
+www.reichelt.de##.cc_banner
+www.mydealz.de##.softMessages-item
+soundcloud.com##.announcement
+pornhub.com##.cookieBanner
+www.lightningmaps.org##.cc-type-opt-out.cc-banner
