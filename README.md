@@ -6,10 +6,13 @@ A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all tra
 
 Copy one of the link below, go to uBlock Origin > Dashboard > Filters and paste the link underneath the 'Import...' heading:
 
-
 ## Hide Cookie Banner List
 
 - [https://raw.githubusercontent.com/devxom/ublock-custom-lists/main/rules/remove-cookie-banners.txt](ubo:subscribe?location=https://raw.githubusercontent.com/devxom/ublock-custom-lists/main/rules/remove-cookie-banners.txt)
+
+## Hide YouTube Shorts List
+
+- [https://raw.githubusercontent.com/devxom/ublock-custom-lists/main/rules/hide-youtube-shorts.txt](ubo:subscribe?location=https://raw.githubusercontent.com/devxom/ublock-custom-lists/main/rules/hide-youtube-shorts.txt)
 
 ## License
 
